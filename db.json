@@ -1,0 +1,15 @@
+{
+  "regie_emp_icos": [
+    {
+          "uid": "ab7294c4-816b-41ab-b454-bc69c7198b1f",
+          "uid_ud": "b13c7110-18bb-4a9e-bdb9-c86d38524900",
+          "r_grid": "e4X5",
+          "emplacement": 14
+        },
+        {
+          "uid" : "dcb2aa6e-7cf1-4523-9d75-9f45b00cc18b",
+          "uid_ud": "f098a6e2-9e08-4df8-9a41-99fa216a7916",
+          "r_grid": "e4X5",
+          "emplacement": 13
+        }
+    ]
