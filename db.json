@@ -1,6 +1,6 @@
 {
   "regie_emp_icos": [
-    {
+		{
           "uid": "ab7294c4-816b-41ab-b454-bc69c7198b1f",
           "uid_ud": "b13c7110-18bb-4a9e-bdb9-c86d38524900",
           "r_grid": "e4X5",
@@ -13,3 +13,4 @@
           "emplacement": 13
         }
     ]
+}
